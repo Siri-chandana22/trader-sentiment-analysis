@@ -13,6 +13,7 @@ Install the following Python libraries before running the notebook:
 
 ```bash
 pip install pandas numpy matplotlib seaborn
+```
 
 ## Key Features
 
