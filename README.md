@@ -58,6 +58,7 @@ Trader behavior is strongly influenced by market sentiment.The findings highligh
 
 ## Sample Outputs
 
-![Mean Closed PnL by Sentiment](<img width="1032" height="557" alt="Image" src="https://github.com/user-attachments/assets/187e3e80-50dc-4658-b3f8-680f77b4ed76" />)
+![Mean Closed PnL by Sentiment](https://github.com/user-attachments/assets/187e3e80-50dc-4658-b3f8-680f77b4ed76)
 
-![Trade Counts by Sentiment](<img width="1272" height="558" alt="Image" src="https://github.com/user-attachments/assets/1b9a51df-5307-4b15-bbc0-39797a599e0b" />)
+![Trade Counts by Sentiment](https://github.com/user-attachments/assets/1b9a51df-5307-4b15-bbc0-39797a599e0b)
+
